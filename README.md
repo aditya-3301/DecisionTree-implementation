@@ -136,15 +136,4 @@ decision-tree-titanic/
 │   └── tasks.json              # Build tasks for C++ (if applicable)
 └── README.md                    # This file
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Note**: This implementation is for educational purposes and may not be optimized for production use. For real-world applications, consider using established libraries like scikit-learn's RandomForestClassifier.
+.
