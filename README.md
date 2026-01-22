@@ -132,8 +132,6 @@ decision-tree-titanic/
 ├── Optimum_Depth.png            # Accuracy vs depth visualization
 ├── Report on the RandomForest Implementation.pdf  # Detailed analysis report
 ├── .gitignore                   # Git ignore file
-├── .vscode/                     # VS Code configuration
-│   └── tasks.json              # Build tasks for C++ (if applicable)
 └── README.md                    # This file
 ```
 .
